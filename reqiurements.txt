@@ -1,0 +1,6 @@
+#
+#manualy generated
+# by hasanm08
+#https://github.com/hasanm08/runaway_mouse
+#
+numpy==1.23.1
